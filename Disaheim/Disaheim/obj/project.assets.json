@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Programmer\\Disaheim\\Disaheim\\Disaheim.csproj",
+      "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\Disaheim\\Disaheim\\Disaheim\\Disaheim.csproj",
       "projectName": "Disaheim",
-      "projectPath": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Programmer\\Disaheim\\Disaheim\\Disaheim.csproj",
+      "projectPath": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\Disaheim\\Disaheim\\Disaheim\\Disaheim.csproj",
       "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Programmer\\Disaheim\\Disaheim\\obj\\",
+      "outputPath": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\Disaheim\\Disaheim\\Disaheim\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

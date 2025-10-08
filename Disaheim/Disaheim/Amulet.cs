@@ -17,21 +17,21 @@ namespace Disaheim
         {
             ItemId = null;
             Design = null;
-            Quality = Level.low;
+            Quality = Level.medium;
         }
 
         public Amulet(string itemId)
         {
             ItemId = itemId;
             Design = null;
-            Quality = Level.low;
+            Quality = Level.medium;
         }
 
         public Amulet(string itemId, Level quality)
         {
             ItemId = itemId;
             Quality = quality;
-            Quality = Level.low;
+            Design = null;
         }
 
         public Amulet(string itemId, Level quality, string design)
@@ -43,8 +43,7 @@ namespace Disaheim
 
         public override string ToString()
         {
-            string text = $"Item ID: {ItemId}, Design: {Design}, Quality: {Quality}";
-            return text;
+            return $"ItemId: {ItemId}, Quality: {Quality}, Design: {Design}";
         }
 
     }

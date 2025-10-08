@@ -1,0 +1,15 @@
+C:\Users\marti\OneDrive\Documents\Datamatiker\Git\DisahiemGit\Disaheim\Disaheim\bin\Debug\net8.0\Disaheim.exe
+C:\Users\marti\OneDrive\Documents\Datamatiker\Git\DisahiemGit\Disaheim\Disaheim\bin\Debug\net8.0\Disaheim.deps.json
+C:\Users\marti\OneDrive\Documents\Datamatiker\Git\DisahiemGit\Disaheim\Disaheim\bin\Debug\net8.0\Disaheim.runtimeconfig.json
+C:\Users\marti\OneDrive\Documents\Datamatiker\Git\DisahiemGit\Disaheim\Disaheim\bin\Debug\net8.0\Disaheim.dll
+C:\Users\marti\OneDrive\Documents\Datamatiker\Git\DisahiemGit\Disaheim\Disaheim\bin\Debug\net8.0\Disaheim.pdb
+C:\Users\marti\OneDrive\Documents\Datamatiker\Git\DisahiemGit\Disaheim\Disaheim\obj\Debug\net8.0\Disaheim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Documents\Datamatiker\Git\DisahiemGit\Disaheim\Disaheim\obj\Debug\net8.0\Disaheim.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Documents\Datamatiker\Git\DisahiemGit\Disaheim\Disaheim\obj\Debug\net8.0\Disaheim.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Documents\Datamatiker\Git\DisahiemGit\Disaheim\Disaheim\obj\Debug\net8.0\Disaheim.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Documents\Datamatiker\Git\DisahiemGit\Disaheim\Disaheim\obj\Debug\net8.0\Disaheim.sourcelink.json
+C:\Users\marti\OneDrive\Documents\Datamatiker\Git\DisahiemGit\Disaheim\Disaheim\obj\Debug\net8.0\Disaheim.dll
+C:\Users\marti\OneDrive\Documents\Datamatiker\Git\DisahiemGit\Disaheim\Disaheim\obj\Debug\net8.0\refint\Disaheim.dll
+C:\Users\marti\OneDrive\Documents\Datamatiker\Git\DisahiemGit\Disaheim\Disaheim\obj\Debug\net8.0\Disaheim.pdb
+C:\Users\marti\OneDrive\Documents\Datamatiker\Git\DisahiemGit\Disaheim\Disaheim\obj\Debug\net8.0\Disaheim.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Documents\Datamatiker\Git\DisahiemGit\Disaheim\Disaheim\obj\Debug\net8.0\ref\Disaheim.dll

@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\Disaheim\\Disaheim\\",
+  "WorkspaceRootPath": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\DisahiemGit\\Disaheim\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C052027-88E4-4C0D-BBB6-FC523DDB1CE3}|Disaheim\\Disaheim.csproj|c:\\users\\marti\\onedrive\\documents\\datamatiker\\git\\disaheim\\disaheim\\disaheim\\amulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C052027-88E4-4C0D-BBB6-FC523DDB1CE3}|Disaheim\\Disaheim.csproj|c:\\users\\marti\\onedrive\\documents\\datamatiker\\git\\disahiemgit\\disaheim\\disaheim\\amulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C052027-88E4-4C0D-BBB6-FC523DDB1CE3}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\amulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C052027-88E4-4C0D-BBB6-FC523DDB1CE3}|Disaheim\\Disaheim.csproj|c:\\users\\marti\\onedrive\\documents\\datamatiker\\git\\disaheim\\disaheim\\disaheim\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCB0B1BE-8581-40AF-928B-701AAEDCCBD0}|DisaheimTest\\DisaheimTest.csproj|c:\\users\\marti\\onedrive\\documents\\datamatiker\\git\\disahiemgit\\disaheim\\disaheimtest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB0B1BE-8581-40AF-928B-701AAEDCCBD0}|DisaheimTest\\DisaheimTest.csproj|solutionrelative:disaheimtest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C052027-88E4-4C0D-BBB6-FC523DDB1CE3}|Disaheim\\Disaheim.csproj|c:\\users\\marti\\onedrive\\documents\\datamatiker\\git\\disahiemgit\\disaheim\\disaheim\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C052027-88E4-4C0D-BBB6-FC523DDB1CE3}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C052027-88E4-4C0D-BBB6-FC523DDB1CE3}|Disaheim\\Disaheim.csproj|c:\\users\\marti\\onedrive\\documents\\datamatiker\\git\\disaheim\\disaheim\\disaheim\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C052027-88E4-4C0D-BBB6-FC523DDB1CE3}|Disaheim\\Disaheim.csproj|c:\\users\\marti\\onedrive\\documents\\datamatiker\\git\\disahiemgit\\disaheim\\disaheim\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C052027-88E4-4C0D-BBB6-FC523DDB1CE3}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C052027-88E4-4C0D-BBB6-FC523DDB1CE3}|Disaheim\\Disaheim.csproj|c:\\users\\marti\\onedrive\\documents\\datamatiker\\git\\disaheim\\disaheim\\disaheim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C052027-88E4-4C0D-BBB6-FC523DDB1CE3}|Disaheim\\Disaheim.csproj|c:\\users\\marti\\onedrive\\documents\\datamatiker\\git\\disahiemgit\\disaheim\\disaheim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C052027-88E4-4C0D-BBB6-FC523DDB1CE3}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -29,25 +33,8 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\Disaheim\\Disaheim\\Disaheim\\Book.cs",
-              "RelativeDocumentMoniker": "Disaheim\\Book.cs",
-              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\Disaheim\\Disaheim\\Disaheim\\Book.cs",
-              "RelativeToolTip": "Disaheim\\Book.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T07:36:39.212Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -59,42 +46,66 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\DisahiemGit\\Disaheim\\DisaheimTest\\Test1.cs",
+              "RelativeDocumentMoniker": "DisaheimTest\\Test1.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\DisahiemGit\\Disaheim\\DisaheimTest\\Test1.cs",
+              "RelativeToolTip": "DisaheimTest\\Test1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:06:50.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\DisahiemGit\\Disaheim\\Disaheim\\Book.cs",
+              "RelativeDocumentMoniker": "Disaheim\\Book.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\DisahiemGit\\Disaheim\\Disaheim\\Book.cs",
+              "RelativeToolTip": "Disaheim\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:36:39.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Amulet.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\Disaheim\\Disaheim\\Disaheim\\Amulet.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\DisahiemGit\\Disaheim\\Disaheim\\Amulet.cs",
               "RelativeDocumentMoniker": "Disaheim\\Amulet.cs",
-              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\Disaheim\\Disaheim\\Disaheim\\Amulet.cs",
-              "RelativeToolTip": "Disaheim\\Amulet.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\DisahiemGit\\Disaheim\\Disaheim\\Amulet.cs*",
+              "RelativeToolTip": "Disaheim\\Amulet.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T07:36:30.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Enum.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\Disaheim\\Disaheim\\Disaheim\\Enum.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\DisahiemGit\\Disaheim\\Disaheim\\Enum.cs",
               "RelativeDocumentMoniker": "Disaheim\\Enum.cs",
-              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\Disaheim\\Disaheim\\Disaheim\\Enum.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\DisahiemGit\\Disaheim\\Disaheim\\Enum.cs",
               "RelativeToolTip": "Disaheim\\Enum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T07:34:59.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T07:34:59.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\Disaheim\\Disaheim\\Disaheim\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\DisahiemGit\\Disaheim\\Disaheim\\Program.cs",
               "RelativeDocumentMoniker": "Disaheim\\Program.cs",
-              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\Disaheim\\Disaheim\\Disaheim\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\DisahiemGit\\Disaheim\\Disaheim\\Program.cs",
               "RelativeToolTip": "Disaheim\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T07:10:29.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T07:10:29.284Z"
             }
           ]
         }

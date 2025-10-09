@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\DisahiemGit\\Disaheim\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCB0B1BE-8581-40AF-928B-701AAEDCCBD0}|DisaheimTest\\DisaheimTest.csproj|c:\\users\\marti\\onedrive\\documents\\datamatiker\\git\\disahiemgit\\disaheim\\disaheimtest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCB0B1BE-8581-40AF-928B-701AAEDCCBD0}|DisaheimTest\\DisaheimTest.csproj|solutionrelative:disaheimtest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCB0B1BE-8581-40AF-928B-701AAEDCCBD0}|DisaheimTest\\DisaheimTest.csproj|c:\\users\\marti\\onedrive\\documents\\datamatiker\\git\\disahiemgit\\disaheim\\disaheimtest\\test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB0B1BE-8581-40AF-928B-701AAEDCCBD0}|DisaheimTest\\DisaheimTest.csproj|solutionrelative:disaheimtest\\test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C052027-88E4-4C0D-BBB6-FC523DDB1CE3}|Disaheim\\Disaheim.csproj|c:\\users\\marti\\onedrive\\documents\\datamatiker\\git\\disahiemgit\\disaheim\\disaheim\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C052027-88E4-4C0D-BBB6-FC523DDB1CE3}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C052027-88E4-4C0D-BBB6-FC523DDB1CE3}|Disaheim\\Disaheim.csproj|c:\\users\\marti\\onedrive\\documents\\datamatiker\\git\\disahiemgit\\disaheim\\disaheim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C052027-88E4-4C0D-BBB6-FC523DDB1CE3}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C052027-88E4-4C0D-BBB6-FC523DDB1CE3}|Disaheim\\Disaheim.csproj|c:\\users\\marti\\onedrive\\documents\\datamatiker\\git\\disahiemgit\\disaheim\\disaheim\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +23,8 @@
       "RelativeMoniker": "D:0:0:{6C052027-88E4-4C0D-BBB6-FC523DDB1CE3}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\amulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C052027-88E4-4C0D-BBB6-FC523DDB1CE3}|Disaheim\\Disaheim.csproj|c:\\users\\marti\\onedrive\\documents\\datamatiker\\git\\disahiemgit\\disaheim\\disaheim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C052027-88E4-4C0D-BBB6-FC523DDB1CE3}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCB0B1BE-8581-40AF-928B-701AAEDCCBD0}|DisaheimTest\\DisaheimTest.csproj|c:\\users\\marti\\onedrive\\documents\\datamatiker\\git\\disahiemgit\\disaheim\\disaheimtest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB0B1BE-8581-40AF-928B-701AAEDCCBD0}|DisaheimTest\\DisaheimTest.csproj|solutionrelative:disaheimtest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C052027-88E4-4C0D-BBB6-FC523DDB1CE3}|Disaheim\\Disaheim.csproj|c:\\users\\marti\\onedrive\\documents\\datamatiker\\git\\disahiemgit\\disaheim\\disaheim\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,6 +55,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Test3.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\DisahiemGit\\Disaheim\\DisaheimTest\\Test3.cs",
+              "RelativeDocumentMoniker": "DisaheimTest\\Test3.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\DisahiemGit\\Disaheim\\DisaheimTest\\Test3.cs",
+              "RelativeToolTip": "DisaheimTest\\Test3.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:49:58.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\DisahiemGit\\Disaheim\\Disaheim\\Controller.cs",
+              "RelativeDocumentMoniker": "Disaheim\\Controller.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\DisahiemGit\\Disaheim\\Disaheim\\Controller.cs*",
+              "RelativeToolTip": "Disaheim\\Controller.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:40:21.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Test1.cs",
               "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\DisahiemGit\\Disaheim\\DisaheimTest\\Test1.cs",
               "RelativeDocumentMoniker": "DisaheimTest\\Test1.cs",
@@ -59,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\DisahiemGit\\Disaheim\\Disaheim\\Book.cs",
               "RelativeDocumentMoniker": "Disaheim\\Book.cs",
@@ -67,11 +101,12 @@
               "RelativeToolTip": "Disaheim\\Book.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T07:36:39.212Z"
+              "WhenOpened": "2025-10-08T07:36:39.212Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Amulet.cs",
               "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\DisahiemGit\\Disaheim\\Disaheim\\Amulet.cs",
               "RelativeDocumentMoniker": "Disaheim\\Amulet.cs",
@@ -79,11 +114,12 @@
               "RelativeToolTip": "Disaheim\\Amulet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T07:36:30.872Z"
+              "WhenOpened": "2025-10-08T07:36:30.872Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Enum.cs",
               "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\DisahiemGit\\Disaheim\\Disaheim\\Enum.cs",
               "RelativeDocumentMoniker": "Disaheim\\Enum.cs",
@@ -91,11 +127,12 @@
               "RelativeToolTip": "Disaheim\\Enum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T07:34:59.609Z"
+              "WhenOpened": "2025-10-08T07:34:59.609Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documents\\Datamatiker\\Git\\DisahiemGit\\Disaheim\\Disaheim\\Program.cs",
               "RelativeDocumentMoniker": "Disaheim\\Program.cs",
@@ -103,7 +140,8 @@
               "RelativeToolTip": "Disaheim\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T07:10:29.284Z"
+              "WhenOpened": "2025-10-08T07:10:29.284Z",
+              "EditorCaption": ""
             }
           ]
         }

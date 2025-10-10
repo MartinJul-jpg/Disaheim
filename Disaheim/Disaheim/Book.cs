@@ -6,39 +6,32 @@ using System.Threading.Tasks;
 
 namespace Disaheim
 {
-    public class Book
+    public class Book : Merchandise
     {
-        public string ItemId;
         public string Title;
-        public Double Price;
+        public double Price;
 
-        public Book()
-        {
-            ItemId = null;
-            Title = null;
-            Price = 0;
-        }
-        
-        public Book(string itemId)
+        public Book(string itemId) : base()
         {
             ItemId = itemId;
-            Title = null;
+            Title = string.Empty;
             Price = 0;
         }
 
-        public Book(string itemId, string title)
+        public Book(string itemId, string title) : base()
         {
             ItemId = itemId;
             Title = title;
             Price = 0;
         }
 
-        public Book(string itemId, string title, double price)
+        public Book(string itemId, string title, double price) : base()
         {
             ItemId = itemId;
             Title = title;
             Price = price;
         }
+
         public override string ToString()
         {
             string text = $"ItemId: {ItemId}, Title: {Title}, Price: {Price}";

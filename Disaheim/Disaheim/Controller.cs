@@ -8,13 +8,13 @@ namespace Disaheim
 {
     public class Controller
     {
-        public List<Book> Books;
-        public List<Amulet> Amulets;
+        public List<Merchandise> Books;
+        public List<Merchandise> Amulets;
 
         public Controller()
         {
-            Books = new List<Book>();
-            Amulets = new List<Amulet>();
+            Books = new List<Merchandise>();
+            Amulets = new List<Merchandise>();
         }
 
         public void AddToList(Book book)

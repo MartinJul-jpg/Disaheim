@@ -7,34 +7,28 @@ using System.Threading.Tasks;
 
 namespace Disaheim
 {
-    public class Amulet
+    public class Amulet : Merchandise
     {
         public string ItemId;
         public string Design;
         public Level Quality;
 
-        public Amulet()
-        {
-            ItemId = null;
-            Design = null;
-            Quality = Level.medium;
-        }
 
-        public Amulet(string itemId)
+        public Amulet(string itemId) : base()
         {
             ItemId = itemId;
             Design = null;
             Quality = Level.medium;
         }
 
-        public Amulet(string itemId, Level quality)
+        public Amulet(string itemId, Level quality) : base()
         {
             ItemId = itemId;
             Quality = quality;
             Design = null;
         }
 
-        public Amulet(string itemId, Level quality, string design)
+        public Amulet(string itemId, Level quality, string design) : base()
         {
             ItemId = itemId;
             Quality = quality;
